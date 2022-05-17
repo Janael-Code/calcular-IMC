@@ -1,0 +1,53 @@
+#form {
+ background:#f3efef; /* cor de fundo do form  */
+
+ font:15px arial, verdana, helvetica, sans-serif; /* tamanho e o tipo da fonte no formulário  teste....*/
+
+ border-top:4px solid #6ff700;    /* borda superior de 8px solida na cor cinza clara  no formulário */
+                                                                                           
+border-left:4px solid #6ff700;         /* a borda esquerda do formulário */
+
+border-right:4px solid #6ff700;        /* a borda direita do formulário */
+
+border-bottom:4px solid #6ff700;     /* a borda inferior do formulário */
+
+color:#0e5ef1; /* a cor  para as letras */
+       
+
+}
+
+#form input.metros {
+    
+    border:2px solid #7e9979;     /* uma borda de 1px tracejada e na cor laranja para o campo */
+    
+    
+ }  
+
+#form input.peso {
+    
+    border:2px solid #7e9979;     /* uma borda de 1px tracejada e na cor laranja para o campo */
+        
+        
+ }  
+
+#form input.botao {
+    background:#ffffff;   /* a cor do fundo do botão */
+         
+    color:#000000;  /* a cor das letras  .Enviar. */
+    
+    border:2px solid #00ff22;          /* uma borda de 2px  branca no botão*/
+    align-items: center;
+ } 
+
+div.formulario{
+
+    width: 1000px;
+    margin: 0 auto;
+
+}
+div.titulo>h2{
+    color:#02f8d7; /* a cor  para as letras */
+    font:50px arial, verdana, helvetica, sans-serif;
+    text-align: center;
+
+}
